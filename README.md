@@ -1,6 +1,6 @@
 # TP2-NN
 
-La siguiente entrega se presentan los siguientes carpetas y archivos.
+El repositorio presentan los siguientes carpetas y archivos.
 
 - Entrega (carpeta con notebooks finales y resultado)
     - 5 notebooks con el analisis de los datos y el procesado con los parametros que dieron el mejor resultado
