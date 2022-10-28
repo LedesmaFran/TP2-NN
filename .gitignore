@@ -1,6 +1,4 @@
-Entrega/weights/initial_weights.hdf5
 Entrega/weights/bestmodel.hdf5
-Entrega/feathers/train_normalized_data.fth
 Entrega/feathers/test_normalized_data.fth
 Entrega/feathers/joined_train_before_durations.fth
 Entrega/feathers/joined_test_before_durations.fth
